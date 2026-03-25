@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning **Deep Learning & MLOps** 💬 Ask me about **Data Science & Python** ⚡ Fun fact **I can debug code in my sleep (sometimes)**
+🌱 I’m currently learning **Deep Learning & ML 💬 Ask me about **Data Science & Python** ⚡
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet-mishra15) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhijeetmishra908@gmail.com) 
