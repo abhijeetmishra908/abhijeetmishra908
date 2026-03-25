@@ -1,7 +1,7 @@
 # 💫 About Me:
 🌱 I’m currently learning **Data Science & Deep Learning**  
 💡 Interested in **Machine Learning | NLP | Deep Learning | Model Deployment**  
-🚀 Building real-world ML projects using Python & Streamlit  
+🚀 I build real-world Machine Learning apps using **Streamlit**
 
 ---
 
@@ -14,7 +14,6 @@
 # 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -26,7 +25,6 @@
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
@@ -34,19 +32,20 @@
 
 # 🚀 Projects
 
-📌 **Customer Churn Prediction**
-- Built ML classification model using Random Forest & XGBoost
-- Feature engineering + imbalance handling
-- Hyperparameter tuning applied
+📌 **Car Price Prediction App (Streamlit)**
+- Built regression ML model to predict car prices
+- Applied feature engineering & preprocessing
+- Deployed interactive prediction app using Streamlit
 
-📌 **Sentiment Analysis using LSTM**
-- Tokenization + padding pipeline
-- TensorFlow / Keras deep learning model
-- Achieved strong validation accuracy
+📌 **House Price Prediction App (Streamlit)**
+- Implemented regression pipeline for housing dataset
+- Handled missing values & scaling
+- Real-time prediction interface built with Streamlit
 
-📌 **Streamlit ML Deployment App**
-- Real-time prediction interface
-- Integrated trained model (.h5)
+📌 **Kidney Disease Prediction App (Healthcare ML)**
+- Classification model for early kidney disease detection
+- Data preprocessing + feature selection applied
+- Streamlit-based deployment for real-time prediction
 
 ---
 
