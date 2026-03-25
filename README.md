@@ -32,20 +32,20 @@
 
 # 🚀 Projects
 
-📌 **Car Price Prediction App (Streamlit)**
-- Built regression ML model to predict car prices
-- Applied feature engineering & preprocessing
-- Deployed interactive prediction app using Streamlit
+📌 **Car Price Prediction App (Classification | Random Forest | Streamlit)**
+- Built classification model using Random Forest
+- Applied preprocessing & feature engineering
+- Developed Streamlit web app for real-time car price category prediction
 
-📌 **House Price Prediction App (Streamlit)**
-- Implemented regression pipeline for housing dataset
-- Handled missing values & scaling
-- Real-time prediction interface built with Streamlit
+📌 **House Price Prediction App (Classification | XGBoost | Streamlit)**
+- Implemented XGBoost classification pipeline
+- Handled missing values & feature scaling
+- Interactive Streamlit deployment for prediction
 
-📌 **Kidney Disease Prediction App (Healthcare ML)**
-- Classification model for early kidney disease detection
-- Data preprocessing + feature selection applied
-- Streamlit-based deployment for real-time prediction
+📌 **Kidney Disease Prediction App (Classification | XGBoost | Healthcare ML | Streamlit)**
+- Built classification model for kidney disease detection
+- Applied feature selection & preprocessing techniques
+- Developed healthcare prediction interface using Streamlit
 
 ---
 
